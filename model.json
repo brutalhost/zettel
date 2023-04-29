@@ -20,8 +20,5 @@
       }
     }
   },
-  "custom-image": {
-    ":name": "Demo with image",
-    "imageField": {":type": "image"},
-  }
+  "imageField": {":type": "image"}
 }
