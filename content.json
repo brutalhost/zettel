@@ -1,1 +1,9 @@
-{}
+{
+  "imageField": {
+    "provider": "uploadcare",
+    "type": "image",
+    "id": "0bb1f853-3478-4bf4-b75b-40dbd24f2f42",
+    "height": 2000,
+    "width": 1500
+  }
+}
